@@ -1,6 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+
+
 string parenthesis;
 
 string validParenthesis(string prev) {
@@ -36,6 +38,31 @@ string validParenthesis(string prev) {
     return result;
 }
 
+string P4387() {       // validate stack
+    int n; cin >> n; 
+    for (int i = 0; i<n; i++) {
+        int q; cin >> q;
+        stack<int> stacker;
+        
+        /*
+        for(int j = 0; j<q; j++) {
+            int num; cin >>num;
+            stacker.push(num);
+        }
+        */
+       return ;
+        
+    }
+}
+
+define
+
+
+
+int josephus() {
+    
+    return 0;
+}
 
 int main() {
     string prev; cin >> prev;
