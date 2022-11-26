@@ -1,5 +1,5 @@
-## Luogu Coding repo
+## Luogu Coding repository
 ---
-#### This is a repo containing exercise problems i solved during preparation for 5th chuanzhibei, mostly via cpp and partly via java.
+#### This is a repo containing exercise problems i solved during preparation for 5th chuanzhibei, written mostly in cpp or java.
 
-#### All the codes are validated by luogu online ide.
+#### All the codes are validated by vscode or online ide like luogu ide.
